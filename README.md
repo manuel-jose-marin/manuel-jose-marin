@@ -17,6 +17,6 @@
 ---
 
 ## 📫 Conectemos
-[![LinkedIn](https://www.linkedin.com/in/manuel-jos%C3%A9-marin-ar%C3%A9valo-695407271/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Marin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuel-josé-marin-arévalo-695407271/)
 
 
