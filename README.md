@@ -1,22 +1,21 @@
-# 👋 Hola, soy Manuel
+# 👋 Hi, I’m Manuel
 
-🎓 Ingeniero Químico y de Alimentos graduado en 2023 de la **Universidad de los Andes**. Actualmente curso la **Maestría en Ingeniería de Software (MISO)** en la misma universidad, con el objetivo de fortalecer mis capacidades técnicas y desarrollarme como ingeniero de software.
+I’m a **Software Engineer** currently pursuing an **MSc in Software Engineering (MISO)** at **Universidad de los Andes**. I’m focused on **backend and full-stack development**, building web applications with clean architecture, solid API design, and practical CI-friendly workflows.
 
-💻 Mi experiencia profesional incluye trabajo como **QA Engineer** en una startup fintech colombiana, donde participé en el aseguramiento de calidad y pruebas de software. Posteriormente obtuve una beca de estudio en **Globant**, completando un programa intensivo de 10 meses en **QA Automation** con **Java**, **Python**, y frameworks como **Selenium** y **Cypress**.
+Before shifting fully into development, I worked as a **QA Engineer** at an early-stage **fintech SaaS** (Colombia, with reach in Chile) in the **earned wage access** space. That experience shaped how I build software: I think in terms of **reliability, edge cases, regression risk, and testable design**, and I’m comfortable shipping in fast-moving environments.
 
-🚀 Me motiva aprender, adaptarme rápidamente y aportar al trabajo en equipo. Aunque mi experiencia en desarrollo de software está en construcción, mi formación en ingeniería y mi paso por QA me han dado una base sólida en resolución de problemas, pensamiento lógico y buenas prácticas de calidad.
-
----
-
-## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Java, Python
-- **Automatización y pruebas:** Selenium, Cypress
-- **Control de versiones:** Git, GitHub
-- **Metodologías:** Agile/Scrum
+I also completed an intensive **QA Automation** program (Globant scholarship), strengthening my foundations in **Java** and **Python** and learning how to build maintainable automated suites. Today, I apply that background to development: writing code that’s easier to test, deploy, and evolve.
 
 ---
 
-## 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Marin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuel-josé-marin-arévalo-695407271/)
+## 🧰 Tech
+- **Languages:** Java, Python
+- **Backend / APIs:** REST APIs
+- **Testing:** JUnit, Selenium WebDriver, Cypress
+- **Tooling:** Git, GitHub, CI/CD basics
+- **Ways of Working:** Agile / Scrum
 
+---
 
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Marin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuel-jos%C3%A9-marin-ar%C3%A9valo-695407271/)
